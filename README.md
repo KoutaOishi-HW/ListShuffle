@@ -1,4 +1,4 @@
-# ListShuffle
+# リストの中身をランダムで入れ替えるコード
 
 Unityプロジェクト
 Listの中身をSystem.Guid.NewGuid()を生成してシャッフルする。
