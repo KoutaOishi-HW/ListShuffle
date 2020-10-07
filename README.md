@@ -1,4 +1,4 @@
-# ListShuffle
+# ListShuffle-Unityプロジェクト
 
 Listの中身をSystem.Guid.NewGuid()を生成してシャッフルする。
 
